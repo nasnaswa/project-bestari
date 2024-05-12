@@ -1,6 +1,6 @@
-# BOPAT CAFE by SUMMER TEAM
+# Bestari Cafe App by Bopat Team
 
-Aplikasi ini menyediakan berbagai Dessert, Makanan , Minuman untuk mempermudah pelanggan Melakukan transaksi pembelian pada aplikasi ini dan tidak perlu menunggu lama di antrian
+Aplikasi yang menyediakan menu-menu dari Bestari Cafe dan juga Promosi Event menarik.
 
 TIM SUMMER
 - KETUA : Naswalya (22312165)
